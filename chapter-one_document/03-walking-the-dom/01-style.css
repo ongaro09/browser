@@ -1,0 +1,12 @@
+table {
+    table-layout: auto;
+    width: 11.5%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+}
+
+tr, td {
+    border: 1px solid black;
+    padding: 1.25em;
+}
