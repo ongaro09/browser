@@ -4,7 +4,7 @@ The following tasks are sourced from this [link](https://javascript.info/dom-nav
 
 ## DOM Children
 
-Look at this page:
+Look at this [page](https://github.com/ongaro09/browser/blob/main/chapter-one_document/03-walking-the-dom/00-index.html):
 
 ```
 <html>
