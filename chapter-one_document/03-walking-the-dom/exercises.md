@@ -23,3 +23,8 @@ For each of the following, give at least one way of how to access them:
 - The `<div>` DOM node?
 - The `<ul>` DOM node?
 - The second `<li>` `(with Mukami)`
+
+
+## Select all diagonal cells
+
+Write a code that paints all diagonal table cells in red.
