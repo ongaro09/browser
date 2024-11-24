@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Find elements</title>
+    <link href="00-style.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <form name="search">
+      <label for="">Search the site:
+	<input name="search" type="text" value=""/>
+      </label>
+      <input name="" type="submit" value="Search!"/>
+    </form>
+
+    <hr/>
+    
+    <form name="search-person">
+      Search the visitors:
+      <table id="age-table">
+        <tr>
+          <td>Age:</td>
+	  <td id="age-list">
+	    <label for=""><input name="age" type="radio" value="young"/>less than 18</label>
+	    <label for=""><input name="age" type="radio" value=""/>18-50</label>
+	    <label for=""><input name="age" type="radio" value=""/>greater than 50</label>
+	  </td>
+        </tr>
+
+	<tr>
+	  <td>Additionally:</td>
+	  <td>
+	    <input name="info[0]" type="text" value=""/>
+	    <input name="info[1]" type="text" value=""/>
+	    <input name="info[2]" type="text" value=""/>
+	  </td>
+	</tr>
+	
+      </table>
+
+      <input name="" type="submit" value="Search!"/>
+      
+    </form>
+
+    <script src="00-script.js"></script>
+  </body>
+</html>
