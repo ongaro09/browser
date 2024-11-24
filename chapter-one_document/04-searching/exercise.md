@@ -3,7 +3,7 @@
 
 ## Search for Elements
 
-Here's the document with the table and form.
+Here's the [document](https://github.com/ongaro09/browser/blob/main/chapter-one_document/04-searching/00-index.html) with the table and form.
 
 How to find?
 
