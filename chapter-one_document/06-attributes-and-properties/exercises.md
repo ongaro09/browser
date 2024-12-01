@@ -13,4 +13,5 @@ Make all external links yellow by altering their `style` property.
 - A link is external if it has `://` in it.
 - But doesn't start with `http://internal.com`.
 
-See [example](https://javascript.info/dom-attributes-and-properties) at the end of the file.
+See [example](https://javascript.info/dom-attributes-and-properties) at the end of the file or access the file
+directly [here](https://github.com/ongaro09/browser/blob/main/chapter-one_document/06-attributes-and-properties/01-index.html).
